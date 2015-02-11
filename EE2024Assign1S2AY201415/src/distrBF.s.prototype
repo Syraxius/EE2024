@@ -1,0 +1,79 @@
+ 	.syntax unified
+ 	.cpu cortex-m3
+ 	.thumb
+ 	.align 2
+ 	.global	distrBF
+ 	.thumb_func
+
+@ EE2024 Assignment 1, Sem 2, AY 2014/15
+@ (c) CK Tham, ECE NUS, 2015
+
+@R0 = T
+@R1 = n_res
+@R2 = Dij
+@R3 = Dj
+@R4 = N
+@R5 is T counting index
+@R6 is N counting index
+@R7 is current Dij (from ELEMENT)
+@R8 is current Dj (from ELEMENT)
+@R9 is best Dij (of current T)
+@R10 is best j (of current T)
+@R11 is Dij/j parameter for ELEMENT
+
+distrBF:
+	PUSH {R5, R6, R7, R8, R9, R10, R11, R14}
+	LDR R4, [R1] @Store N into R4
+	MOV R5, #0 @Store T into R5
+
+	LOOPA:
+		MOV R6, #0 @Count N from 0
+		MOV R9, #0xFF @Reset Cost to Maximum
+
+		LOOPB:
+			MOV R11, #0 @Set it to retrieve Dij
+			BL ELEMENT @Retrieve Dij
+
+			MOV R11, #1 @Set it to retrieve Dj
+			BL ELEMENT @Retrieve Dj
+
+			ADD R7, R7, R8 @Store sum for current node into R7
+
+			CMP R7, R9 @Compare current node with best node
+			ITT LT @If better, then
+			MOVLT R9, R7 @Store best Distance Vector
+			MOVLT R10, R6 @Store best Node Index
+
+			ADD R6, #1 @Increment N counter
+			CMP R6, R4 @Compare counter with N
+			BNE LOOPB @Loop if not all compared
+
+		STR R9, [R1], #4 @Store best Dij
+		ADD R10, #1 @Add index by 1 (to get human-readable node number)
+		STR R10, [R1], #4 @Store best j
+		SUB R10, #1 @Decrement index by 1 (to get back Node Index)
+
+		ADD R5, #1 @Increment T loop counter
+		CMP R5, R0 @Compare counter with T
+		BNE LOOPA @Loop again if not all T is done
+
+	POP {R5, R6, R7, R8, R9, R10, R11, R14} @Restore registers
+
+	BX LR @Return to caller
+
+@ Subroutine ELEMENT
+ELEMENT:
+	PUSH {R12}
+	MOV R12, #4
+	MUL R12, R12, R5
+	MUL R12, R12, R0
+	ADD R12, R12, R6, LSL #2
+	CMP R11, #0 @Check argument
+	ITE EQ
+	LDREQ R7, [R2, R12] @If 0 then Store Dij
+	LDRNE R8, [R3, R12] @If 1 then Store j
+	POP {R12}
+	BX LR @Return to caller
+
+	NOP
+	.end
