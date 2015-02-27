@@ -1,23 +1,23 @@
 C Equivalent
 
-distrBF(T,(int*)n_res,(int*)Dij,(int*)Dj) {
-
+distrBF(T, (int*)n_res, (int*)dij, (int*)Dj) {
 	int N = n_res[0][0];
 
-	for (int i=0; i<T; i++) {
+	for (int t=0; t<T; t++) {
 
-		int minDij = 0x7FFFFFFF;
+		int minDi = 0x7FFFFFFF;
 		int j = 0;
 
 		for (int j=0; j<N; j++) {
-			if (Dij[i][j]+Dj[0] < minDij) {
-				minDij = dij[i][j]+Dj[0];
+			int currDi = dij[t][j]+Dj[0];
+			if (currDi < minDi) {
+				minDi = dij[t][j]+Dj[0];
 				minJ = j+1;
 			}
 		}
 
-		n_res[i][0] = minDij;
-		n_res[i][1] = minJ;
+		n_res[t][0] = minDi;
+		n_res[t][1] = minJ;
 	}
 }
 

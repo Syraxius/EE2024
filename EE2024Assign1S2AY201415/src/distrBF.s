@@ -8,18 +8,18 @@
 @ EE2024 Assignment 1, Sem 2, AY 2014/15
 @ (c) CK Tham, ECE NUS, 2015
 
-@R0 = T
-@R1 = n_res
-@R2 = Dij
-@R3 = Dj
-@R4 is storing N
-@R5 is T counting index
-@R6 is N counting index
-@R7 is passed array
-@R8 is return value from ELEMENT
-@R9 is accumulator (from ELEMENT)
-@R10 is best Dij
-@R11 is best j
+@R0		T (passed from main program)
+@R1		n_res (passed from main program)
+@R2		dij (passed from main program)
+@R3		Dj (passed from main program)
+@R4		N
+@R5		t counter
+@R6		j counter
+@R7		Array address passed to ELEMENT
+@R8		Return value from ELEMENT
+@R9		Current Di
+@R10	Best (Minimum) Di (for current t)
+@R11	Best j (for current t)
 
 distrBF:
 	PUSH {R5, R6, R7, R8, R9, R10, R11, R14}
@@ -27,8 +27,8 @@ distrBF:
 	MOV R5, #0
 
 	loopT:
-		MOV R6, #0
 		MOV R10, #0x7FFFFFFF
+		MOV R6, #0
 
 		loopN:
 			MOV R9, #0
