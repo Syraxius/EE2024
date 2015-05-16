@@ -1,0 +1,920 @@
+Archive member included because of file (symbol)
+
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc17.o (SystemInit)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                              ./src/main.o (acc_init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                              ./src/main.o (joystick_init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                              ./src/main.o (led7seg_init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                              ./src/main.o (oled_putPixel)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                              ./src/main.o (pca9532_init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                              C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (font5x7)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                              ./src/main.o (GPIO_SetDir)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                              ./src/main.o (I2C_Init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                              ./src/main.o (PINSEL_ConfigPin)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                              ./src/main.o (SSP_Init)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                              ./src/main.o (Timer0_Wait)
+C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                              C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o) (CLKPWR_SetPCLKDiv)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                              C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o) (__divdi3)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o) (__udivdi3)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                              C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .text          0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x2d0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.getModeControl
+                0x00000000       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setRange
+                0x00000000       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setMode
+                0x00000000       0x38 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .rodata        0x00000000        0x8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.hLine    0x00000000       0x4c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.vLine    0x00000000       0x4c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_line
+                0x00000000      0x1d4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_circle
+                0x00000000      0x32c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_rect
+                0x00000000       0x48 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_fillRect
+                0x00000000       0x90 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_putChar
+                0x00000000       0xf0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_putString
+                0x00000000       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.I2CRead  0x00000000       0x5c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_getLedState
+                0x00000000       0xb8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Period
+                0x00000000       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Duty
+                0x00000000       0x58 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Leds
+                0x00000000       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Period
+                0x00000000       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Duty
+                0x00000000       0x58 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Leds
+                0x00000000       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .rodata        0x00000000      0x300 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordGetPointer
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteGetPointer
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000       0x20 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000       0x20 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000       0x20 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x94 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x94 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x44 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x70 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x78 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveHandler
+                0x00000000      0x1e4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_DeInit
+                0x00000000       0xa4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveTransferData
+                0x00000000      0x2a4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SetOwnSlaveAddr
+                0x00000000      0x114 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeConfig
+                0x00000000       0x98 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeCmd
+                0x00000000       0x8c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorGetDatabuffer
+                0x00000000       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C0_StdIntHandler
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C1_StdIntHandler
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C2_StdIntHandler
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DeInit
+                0x00000000       0x74 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_LoopBackCmd
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_SlaveOutputCmd
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetStatus
+                0x00000000       0x84 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_IntConfig
+                0x00000000       0x98 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetRawIntStatus
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetIntStatus
+                0x00000000       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_ClearIntPending
+                0x00000000       0x60 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DMACmd
+                0x00000000       0xa8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP0_StdIntHandler
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP1_StdIntHandler
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetIntCaptureStatus
+                0x00000000       0xb8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ClearIntCapturePending
+                0x00000000       0xa4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigStructInit
+                0x00000000       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_DeInit
+                0x00000000       0xc4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ResetCounter
+                0x00000000       0x6c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigCapture
+                0x00000000      0x108 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetCaptureValue
+                0x00000000       0x84 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.__WFI    0x00000000        0xc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x1c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc17.o
+LOAD ./src/main.o
+LOAD C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a
+LOAD C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a
+LOAD C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x41fc
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc17.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x4204 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x98 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x4204 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000098 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x34c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.ResetISR
+                0x000000f4       0x68 ./src/cr_startup_lpc17.o
+                0x000000f4                ResetISR
+ .text.NMI_Handler
+                0x0000015c        0x8 ./src/cr_startup_lpc17.o
+                0x0000015c                NMI_Handler
+ .text.HardFault_Handler
+                0x00000164        0x8 ./src/cr_startup_lpc17.o
+                0x00000164                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000016c        0x8 ./src/cr_startup_lpc17.o
+                0x0000016c                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000174        0x8 ./src/cr_startup_lpc17.o
+                0x00000174                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000017c        0x8 ./src/cr_startup_lpc17.o
+                0x0000017c                UsageFault_Handler
+ .text.SVCall_Handler
+                0x00000184        0x8 ./src/cr_startup_lpc17.o
+                0x00000184                SVCall_Handler
+ .text.DebugMon_Handler
+                0x0000018c        0x8 ./src/cr_startup_lpc17.o
+                0x0000018c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000194        0x8 ./src/cr_startup_lpc17.o
+                0x00000194                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000019c        0x8 ./src/cr_startup_lpc17.o
+                0x0000019c                SysTick_Handler
+ .text.IntDefaultHandler
+                0x000001a4        0x8 ./src/cr_startup_lpc17.o
+                0x000001a4                TIMER2_IRQHandler
+                0x000001a4                RIT_IRQHandler
+                0x000001a4                I2C0_IRQHandler
+                0x000001a4                USBActivity_IRQHandler
+                0x000001a4                PWM1_IRQHandler
+                0x000001a4                I2C1_IRQHandler
+                0x000001a4                EINT2_IRQHandler
+                0x000001a4                UART1_IRQHandler
+                0x000001a4                EINT3_IRQHandler
+                0x000001a4                CANActivity_IRQHandler
+                0x000001a4                TIMER3_IRQHandler
+                0x000001a4                UART0_IRQHandler
+                0x000001a4                IntDefaultHandler
+                0x000001a4                PLL0_IRQHandler
+                0x000001a4                CAN_IRQHandler
+                0x000001a4                PLL1_IRQHandler
+                0x000001a4                SSP0_IRQHandler
+                0x000001a4                I2S_IRQHandler
+                0x000001a4                I2C2_IRQHandler
+                0x000001a4                RTC_IRQHandler
+                0x000001a4                TIMER0_IRQHandler
+                0x000001a4                SPI_IRQHandler
+                0x000001a4                EINT1_IRQHandler
+                0x000001a4                TIMER1_IRQHandler
+                0x000001a4                UART2_IRQHandler
+                0x000001a4                ADC_IRQHandler
+                0x000001a4                SSP1_IRQHandler
+                0x000001a4                USB_IRQHandler
+                0x000001a4                BOD_IRQHandler
+                0x000001a4                WDT_IRQHandler
+                0x000001a4                QEI_IRQHandler
+                0x000001a4                EINT0_IRQHandler
+                0x000001a4                DMA_IRQHandler
+                0x000001a4                UART3_IRQHandler
+                0x000001a4                MCPWM_IRQHandler
+                0x000001a4                ENET_IRQHandler
+ .text.moveBar  0x000001ac       0xa8 ./src/main.o
+ .text.drawOled
+                0x00000254      0x1a4 ./src/main.o
+ .text.playNote
+                0x000003f8       0x70 ./src/main.o
+ .text.getNote  0x00000468       0x5c ./src/main.o
+ .text.getDuration
+                0x000004c4       0x38 ./src/main.o
+ .text.getPause
+                0x000004fc       0x4c ./src/main.o
+ .text.playSong
+                0x00000548       0x94 ./src/main.o
+ .text.init_ssp
+                0x000005dc       0x98 ./src/main.o
+ .text.init_i2c
+                0x00000674       0x5c ./src/main.o
+ .text.init_GPIO
+                0x000006d0       0x44 ./src/main.o
+ .text.main     0x00000714      0x260 ./src/main.o
+                0x00000714                main
+ .text.check_failed
+                0x00000974        0xc ./src/main.o
+                0x00000974                check_failed
+ .text.SystemInit
+                0x00000980      0x22c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x00000980                SystemInit
+ .text.I2CRead  0x00000bac       0x5c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.I2CWrite
+                0x00000c08       0x5c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.getStatus
+                0x00000c64       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.setModeControl
+                0x00000ca0       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_init
+                0x00000cd0       0x10 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x00000cd0                acc_init
+ .text.acc_read
+                0x00000ce0       0xbc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x00000ce0                acc_read
+ .text.joystick_init
+                0x00000d9c       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                0x00000d9c                joystick_init
+ .text.joystick_read
+                0x00000dc4       0x98 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                0x00000dc4                joystick_read
+ .text.remap    0x00000e5c       0x6c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .text.led7seg_init
+                0x00000ec8       0x24 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x00000ec8                led7seg_init
+ .text.led7seg_setChar
+                0x00000eec       0x90 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x00000eec                led7seg_setChar
+ .text.writeCommand
+                0x00000f7c       0x60 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeData
+                0x00000fdc       0x60 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeDataLen
+                0x0000103c       0x8c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.runInitSequence
+                0x000010c8      0x118 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_init
+                0x000011e0       0x9c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000011e0                oled_init
+ .text.oled_putPixel
+                0x0000127c      0x188 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x0000127c                oled_putPixel
+ .text.oled_clearScreen
+                0x00001404       0x74 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00001404                oled_clearScreen
+ .text.I2CWrite
+                0x00001478       0x5c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.setLsStates
+                0x000014d4       0xc4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.setLeds  0x00001598       0xa0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_init
+                0x00001638        0xc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00001638                pca9532_init
+ .text.pca9532_setLeds
+                0x00001644       0xa0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00001644                pca9532_setLeds
+ .text.GPIO_GetPointer
+                0x000016e4       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x00001760       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x00001760                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x000017b4       0x2c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x000017b4                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x000017e0       0x2c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x000017e0                GPIO_ClearValue
+ .text.GPIO_ReadValue
+                0x0000180c       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x0000180c                GPIO_ReadValue
+ .text.NVIC_EnableIRQ
+                0x0000183c       0x38 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.NVIC_DisableIRQ
+                0x00001874       0x3c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_getNum
+                0x000018b0       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Start
+                0x00001904       0x44 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Stop
+                0x00001948       0x38 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SendByte
+                0x00001980       0x50 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_GetByte
+                0x000019d0       0x5c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_IntCmd
+                0x00001a2c       0xa8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001a2c                I2C_IntCmd
+ .text.I2C_MasterHandler
+                0x00001ad4      0x408 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001ad4                I2C_MasterHandler
+ .text.I2C_SetClock
+                0x00001edc       0xc8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001edc                I2C_SetClock
+ .text.I2C_Init
+                0x00001fa4       0xd8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001fa4                I2C_Init
+ .text.I2C_Cmd  0x0000207c       0x84 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x0000207c                I2C_Cmd
+ .text.I2C_MasterTransferData
+                0x00002100      0x390 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00002100                I2C_MasterTransferData
+ .text.PINSEL_SetPinFunc
+                0x00002490       0x9c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00002490                PINSEL_SetPinFunc
+ .text.PINSEL_SetResistorMode
+                0x0000252c       0x9c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x0000252c                PINSEL_SetResistorMode
+ .text.PINSEL_SetOpenDrainMode
+                0x000025c8       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000025c8                PINSEL_SetOpenDrainMode
+ .text.PINSEL_ConfigPin
+                0x00002644       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00002644                PINSEL_ConfigPin
+ .text.SSP_getNum
+                0x00002698       0x40 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_IntHandler
+                0x000026d8      0x338 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x000026d8                SSP_IntHandler
+ .text.SSP_SetClock
+                0x00002a10       0xf8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002a10                SSP_SetClock
+ .text.SSP_Init
+                0x00002b08      0x10c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002b08                SSP_Init
+ .text.SSP_ConfigStructInit
+                0x00002c14       0x48 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002c14                SSP_ConfigStructInit
+ .text.SSP_Cmd  0x00002c5c       0x7c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002c5c                SSP_Cmd
+ .text.SSP_SendData
+                0x00002cd8       0x48 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002cd8                SSP_SendData
+ .text.SSP_ReceiveData
+                0x00002d20       0x44 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002d20                SSP_ReceiveData
+ .text.SSP_ReadWrite
+                0x00002d64      0x440 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002d64                SSP_ReadWrite
+ .text.TIM_GetPClock
+                0x000031a4       0x68 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000031a4                TIM_GetPClock
+ .text.TIM_ConverUSecToVal
+                0x0000320c       0x64 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x0000320c                TIM_ConverUSecToVal
+ .text.TIM_ConverPtrToTimeNum
+                0x00003270       0x6c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003270                TIM_ConverPtrToTimeNum
+ .text.TIM_GetIntStatus
+                0x000032dc       0xb4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000032dc                TIM_GetIntStatus
+ .text.TIM_ClearIntPending
+                0x00003390       0xa0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003390                TIM_ClearIntPending
+ .text.TIM_Init
+                0x00003430      0x1bc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003430                TIM_Init
+ .text.TIM_Cmd  0x000035ec       0x78 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000035ec                TIM_Cmd
+ .text.TIM_ConfigMatch
+                0x00003664      0x19c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003664                TIM_ConfigMatch
+ .text.Timer0_Wait
+                0x00003800       0x8c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003800                Timer0_Wait
+ .text.Timer0_us_Wait
+                0x0000388c       0x8c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x0000388c                Timer0_us_Wait
+ .text.CLKPWR_SetPCLKDiv
+                0x00003918       0xcc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00003918                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x000039e4       0x54 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x000039e4                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00003a38       0x74 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00003a38                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00003aac       0x78 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00003aac                CLKPWR_ConfigPPWR
+ .text          0x00003b24       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00003b24                __aeabi_uldivmod
+ .text          0x00003b50       0x5c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+                0x00003b50                __gnu_ldivmod_helper
+                0x00003b80                __gnu_uldivmod_helper
+ .text          0x00003bac        0x4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+                0x00003bac                __aeabi_idiv0
+                0x00003bac                __aeabi_ldiv0
+ .text          0x00003bb0      0x2c8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+                0x00003bb0                __divdi3
+ .text          0x00003e78      0x298 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                0x00003e78                __udivdi3
+ .text.memset   0x00004110       0x90 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                0x00004110                memset
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x000041a0       0x14 ./src/main.o
+ .rodata        0x000041b4       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .rodata        0x000041cc       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .rodata        0x000041e4       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000041fc                . = ALIGN (0x4)
+
+.glue_7         0x000041fc        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x000041fc        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x000041fc        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000041fc        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000041fc                __exidx_start = .
+
+.ARM.exidx      0x000041fc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000041fc        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00004204        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x00004204                __exidx_end = .
+                0x00004204                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00004204
+ FILL mask 0xff
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x98 load address 0x00004204
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x10000000       0x44 ./src/main.o
+ .data          0x10000044        0x4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x10000044                SystemCoreClock
+ .data          0x10000048       0x50 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x10000098                . = ALIGN (0x4)
+                0x10000098                _edata = .
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000098      0x34c
+                0x10000098                _bss = .
+ *(.bss*)
+ .bss           0x10000098        0x8 ./src/main.o
+ .bss           0x100000a0      0x300 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .bss           0x100003a0        0x6 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ *fill*         0x100003a6        0x2 00
+ .bss           0x100003a8       0x24 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .bss           0x100003cc       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ *(COMMON)
+                0x100003e4                . = ALIGN (0x4)
+                0x100003e4                _ebss = .
+                0x100003e4                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x100003e4        0x0
+                0x100003e4                _noinit = .
+ *(.noinit*)
+                0x100003e4                . = ALIGN (0x4)
+                0x100003e4                _end_noinit = .
+                0x100003e4                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(demo.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x5a45
+ .debug_info    0x00000000      0x209 ./src/cr_startup_lpc17.o
+ .debug_info    0x00000209      0x735 ./src/main.o
+ .debug_info    0x0000093e      0x357 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x00000c95      0x53d C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_info    0x000011d2      0x10f C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_info    0x000012e1      0x2ab C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_info    0x0000158c      0x97d C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_info    0x00001f09      0x642 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_info    0x0000254b       0x65 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_info    0x000025b0      0xb95 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_info    0x00003145      0xcc3 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_info    0x00003e08      0x4b1 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_info    0x000042b9      0x867 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_info    0x00004b20      0x8e4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_info    0x00005404      0x641 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_abbrev   0x00000000     0x144c
+ .debug_abbrev  0x00000000       0xb4 ./src/cr_startup_lpc17.o
+ .debug_abbrev  0x000000b4      0x1cd ./src/main.o
+ .debug_abbrev  0x00000281       0xce C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x0000034f      0x15c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_abbrev  0x000004ab       0x90 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_abbrev  0x0000053b      0x16c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_abbrev  0x000006a7      0x1f1 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_abbrev  0x00000898      0x1aa C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_abbrev  0x00000a42       0x4b C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_abbrev  0x00000a8d      0x185 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x00000c12      0x24a C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_abbrev  0x00000e5c      0x10a C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x00000f66      0x1d3 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_abbrev  0x00001139      0x19f C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_abbrev  0x000012d8      0x174 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_loc      0x00000000     0x22a6
+ .debug_loc     0x00000000      0x1f0 ./src/cr_startup_lpc17.o
+ .debug_loc     0x000001f0      0x2a0 ./src/main.o
+ .debug_loc     0x00000490       0x58 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_loc     0x000004e8      0x1f0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_loc     0x000006d8       0x64 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_loc     0x0000073c       0x9c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_loc     0x000007d8      0x33e C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_loc     0x00000b16      0x2d0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_loc     0x00000de6      0x4d0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_loc     0x000012b6      0x4e4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_loc     0x0000179a      0x150 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_loc     0x000018ea      0x448 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_loc     0x00001d32      0x3b8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_loc     0x000020ea      0x1bc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_aranges  0x00000000      0x670
+ .debug_aranges
+                0x00000000       0x70 ./src/cr_startup_lpc17.o
+ .debug_aranges
+                0x00000070       0x78 ./src/main.o
+ .debug_aranges
+                0x000000e8       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x00000110       0x60 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_aranges
+                0x00000170       0x28 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_aranges
+                0x00000198       0x30 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_aranges
+                0x000001c8       0x90 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_aranges
+                0x00000258       0x80 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_aranges
+                0x000002d8       0xc8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x000003a0       0xd0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_aranges
+                0x00000470       0x48 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x000004b8       0xb8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_aranges
+                0x00000570       0xa0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_aranges
+                0x00000610       0x60 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_ranges   0x00000000      0x590
+ .debug_ranges  0x00000000       0x60 ./src/cr_startup_lpc17.o
+ .debug_ranges  0x00000060       0x68 ./src/main.o
+ .debug_ranges  0x000000c8       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x000000e0       0x50 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_ranges  0x00000130       0x18 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_ranges  0x00000148       0x20 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_ranges  0x00000168       0x80 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_ranges  0x000001e8       0x70 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_ranges  0x00000258       0xb8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_ranges  0x00000310       0xc0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_ranges  0x000003d0       0x38 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x00000408       0xa8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_ranges  0x000004b0       0x90 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_ranges  0x00000540       0x50 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_line     0x00000000     0x4ed2
+ .debug_line    0x00000000      0x363 ./src/cr_startup_lpc17.o
+ .debug_line    0x00000363      0x54d ./src/main.o
+ .debug_line    0x000008b0      0x402 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000cb2      0x4d3 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_line    0x00001185      0x43e C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_line    0x000015c3      0x464 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_line    0x00001a27      0x758 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_line    0x0000217f      0x56a C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_line    0x000026e9       0x7d C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_line    0x00002766      0x5d4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_line    0x00002d3a      0x8ef C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_line    0x00003629      0x453 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_line    0x00003a7c      0x822 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_line    0x0000429e      0x780 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_line    0x00004a1e      0x4b4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_macinfo  0x00000000    0x7f4f7
+ .debug_macinfo
+                0x00000000     0x2c15 ./src/cr_startup_lpc17.o
+ .debug_macinfo
+                0x00002c15     0x9ee2 ./src/main.o
+ .debug_macinfo
+                0x0000caf7     0x83f8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macinfo
+                0x00014eef     0x8f1b C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macinfo
+                0x0001de0a     0x858b C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macinfo
+                0x00026395     0x96a3 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macinfo
+                0x0002fa38     0xa143 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macinfo
+                0x00039b7b     0x8e59 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macinfo
+                0x000429d4     0x332a C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macinfo
+                0x00045cfe     0x86b8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macinfo
+                0x0004e3b6     0xa5d8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macinfo
+                0x0005898e     0x87d3 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macinfo
+                0x00061161     0xa8d0 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macinfo
+                0x0006ba31     0xa4cd C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macinfo
+                0x00075efe     0x95f9 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_str      0x00000000     0x1df5
+ .debug_str     0x00000000      0x1be ./src/cr_startup_lpc17.o
+                                0x1f8 (size before relaxing)
+ .debug_str     0x000001be      0x2a9 ./src/main.o
+                                0x3c7 (size before relaxing)
+ .debug_str     0x00000467      0x1c6 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                                0x297 (size before relaxing)
+ .debug_str     0x0000062d      0x214 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                                0x393 (size before relaxing)
+ .debug_str     0x00000841       0x3a C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x0000087b       0x7e C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x000008f9      0x1a9 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                                0x3b0 (size before relaxing)
+ .debug_str     0x00000aa2      0x136 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                                0x3ea (size before relaxing)
+ .debug_str     0x00000bd8       0x11 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                                 0xbb (size before relaxing)
+ .debug_str     0x00000be9      0x374 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                                0x46c (size before relaxing)
+ .debug_str     0x00000f5d      0x522 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                                0x802 (size before relaxing)
+ .debug_str     0x0000147f      0x214 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                                0x3a1 (size before relaxing)
+ .debug_str     0x00001693      0x211 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                                0x47f (size before relaxing)
+ .debug_str     0x000018a4      0x438 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                                0x5b5 (size before relaxing)
+ .debug_str     0x00001cdc      0x119 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                                0x39d (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/cr_startup_lpc17.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .comment       0x00000000       0x71 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc17.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000066       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x00000264       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .ARM.attributes
+                0x00000297       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .ARM.attributes
+                0x000002ca       0x33 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x000002fd       0x1d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000031a       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000347       0x1d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000364       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000391       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000003be       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+
+.debug_frame    0x00000000     0x153c
+ .debug_frame   0x00000000      0x120 ./src/cr_startup_lpc17.o
+ .debug_frame   0x00000120      0x180 ./src/main.o
+ .debug_frame   0x000002a0       0x48 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x000002e8      0x12c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_frame   0x00000414       0x4c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_frame   0x00000460       0x68 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_frame   0x000004c8      0x1ec C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_frame   0x000006b4      0x1a8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_frame   0x0000085c      0x2c4 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_frame   0x00000b20      0x2c8 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_frame   0x00000de8       0xbc C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_frame   0x00000ea4      0x280 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_frame   0x00001124      0x228 C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_frame   0x0000134c      0x10c C:\Users\Kelvin\Documents\GitHub\ee2024\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x00001458       0x50 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .debug_frame   0x000014a8       0x34 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .debug_frame   0x000014dc       0x34 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00001510       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)

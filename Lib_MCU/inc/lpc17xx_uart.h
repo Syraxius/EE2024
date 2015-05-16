@@ -564,7 +564,8 @@ typedef void (fnModemCbs_Type)(uint8_t ModemStatus);
  * with Blocking Flag mode
  */
 
-#define UART_BLOCKING_TIMEOUT			(0xFFFFFFFFUL)
+//#define UART_BLOCKING_TIMEOUT			(0xFFFFFFFFUL)
+#define UART_BLOCKING_TIMEOUT			(0x0000FFFFFF)
 
 /**
  * @}
